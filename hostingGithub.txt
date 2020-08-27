@@ -1,0 +1,6 @@
+1) install git for windows
+2) open your folder and right click and select git bash here
+3) then go to github and create a new repository
+4) then just copy paste commands
+*** after the command git add README.md run the command
+git add .
